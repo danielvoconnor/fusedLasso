@@ -1,4 +1,5 @@
-# This code uses cvxpy to solve a fused Lasso problem.
+# This code uses cvxpy to solve a fused Lasso problem 
+# with nonnegativity constraints.
 
 import cvxpy as cp
 import numpy as np
